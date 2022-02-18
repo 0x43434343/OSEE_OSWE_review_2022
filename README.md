@@ -53,7 +53,7 @@ AWE revamped in 2021 which removed Flash exploit and replaced it with VMware Gue
 
 **Day 1,2**
 
-First of all, thanks to the instructors Morten and Alexandru for all your help and valuable information. Day 1 of the class starts you off with 3 hours of a dive into custom shellcode in x64. The rest of the day is spent on VMware. It provides you the opportunity to become familiar with VMware guest-to-host vulnerabilities and where to look at in the featured hunting.
+First of all, thanks to the instructors Morten and Alexandru for all your help and valuable information. Day 1 of the class starts you off with 3 hours of a dive into custom shellcode in x64. The rest of the day is spent on VMware. It provides you the opportunity to become familiar with VMware guest-to-host vulnerabilities and where to look at in the future hunting.
 
 We successfully trigger the bug by opening a backdoor via custom assembly code and performing a full exploit in C/C++.
 
